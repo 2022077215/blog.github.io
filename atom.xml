@@ -3,11 +3,11 @@
   <title>筱龙 blog</title>
   
   <subtitle>XIAO_LONG blog</subtitle>
-  <link href="https://blog.github.io/blog/atom.xml" rel="self"/>
+  <link href="https://2022077215.github.io/blog.github.io/atom.xml" rel="self"/>
   
-  <link href="https://blog.github.io/blog/"/>
+  <link href="https://2022077215.github.io/blog.github.io/"/>
   <updated>2023-05-22T07:00:43.581Z</updated>
-  <id>https://blog.github.io/blog/</id>
+  <id>https://2022077215.github.io/blog.github.io/</id>
   
   <author>
     <name>筱龙</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://blog.github.io/blog/2023/05/22/hello-world/"/>
-    <id>https://blog.github.io/blog/2023/05/22/hello-world/</id>
+    <link href="https://2022077215.github.io/blog.github.io/2023/05/22/hello-world/"/>
+    <id>https://2022077215.github.io/blog.github.io/2023/05/22/hello-world/</id>
     <published>2023-05-22T07:00:43.581Z</published>
     <updated>2023-05-22T07:00:43.581Z</updated>
     
